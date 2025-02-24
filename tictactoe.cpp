@@ -1,6 +1,4 @@
 #include <iostream>
-#include <random>
-#include <chrono>
 
 char grids[9] = {' ',' ',' ',' ',' ',' ',' ',' ',' '};
 
